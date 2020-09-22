@@ -29,3 +29,7 @@ hr{
 .buffer{
   height:9rem;
 }
+a{
+  text-decoration:none;
+  color:inherit;
+}
